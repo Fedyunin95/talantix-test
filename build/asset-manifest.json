@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/talantix-test/static/css/main.f73358fb.chunk.css",
+    "main.js": "/talantix-test/static/js/main.e3959d81.chunk.js",
+    "main.js.map": "/talantix-test/static/js/main.e3959d81.chunk.js.map",
+    "runtime-main.js": "/talantix-test/static/js/runtime-main.30f3c314.js",
+    "runtime-main.js.map": "/talantix-test/static/js/runtime-main.30f3c314.js.map",
+    "static/js/2.d1f38f84.chunk.js": "/talantix-test/static/js/2.d1f38f84.chunk.js",
+    "static/js/2.d1f38f84.chunk.js.map": "/talantix-test/static/js/2.d1f38f84.chunk.js.map",
+    "index.html": "/talantix-test/index.html",
+    "precache-manifest.2d55f27e3d4da6e728f82b541edb1294.js": "/talantix-test/precache-manifest.2d55f27e3d4da6e728f82b541edb1294.js",
+    "service-worker.js": "/talantix-test/service-worker.js",
+    "static/css/main.f73358fb.chunk.css.map": "/talantix-test/static/css/main.f73358fb.chunk.css.map",
+    "static/js/2.d1f38f84.chunk.js.LICENSE.txt": "/talantix-test/static/js/2.d1f38f84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30f3c314.js",
+    "static/js/2.d1f38f84.chunk.js",
+    "static/css/main.f73358fb.chunk.css",
+    "static/js/main.e3959d81.chunk.js"
+  ]
+}
